@@ -2,7 +2,7 @@
 <img   width ="100%" height="400px" src="https://cdn.neow.in/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg" >
 <h1 align="center">Hi 👋, I'm hasni firas</h1>
 <h3 align="center">A passionate web developer from tunisia</h3>
-<img align="right" width ="100px" alt ="coding"src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firashs01&label=Profile%20views&color=0e75b6&style=flat" alt="firashs01" /> </p>
 
