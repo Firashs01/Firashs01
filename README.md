@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Reactjs nodejs MongoDB express**
 
-- 👨‍💻 All of my projects are available at [https://hasnifiras.netlify.app/](https://www.firashasni.tn/)
+- 👨‍💻 All of my projects are available at [Firas Hasni](https://www.firashasni.tn/)
 
 - 💬 Ask me about **Reactjs**
 
